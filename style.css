@@ -39,17 +39,15 @@ p {
 
 .con-display {
     display: flex;
-    margin: 0 10%;
+    margin: 10%;
     border: none;
 }
 
-/* .text-format {
-    padding: 3% 6%;
-} */
+
 
 
 .halg-width {
     padding: 4% 8%;
     width: 50%;
-    margin: 8% 0%;
+    margin: -8% 0%;
 }
