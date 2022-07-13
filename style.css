@@ -13,6 +13,10 @@ p {
 
 }
 
+h2 {
+    color: red;
+}
+
 .bg-image {
     background-image: url(images/top-bg-image.png);
     height: 650px;
@@ -57,4 +61,19 @@ p {
     padding: 3% 6%;
     width: 50%;
     margin: -8% 0%;
+}
+
+#footer-color {
+    color: white;
+}
+#align{
+    margin: 0px 44%;
+    padding: 39px 0px;
+    text-align: center;
+}
+
+.footer {
+    height: 161px;
+    width: 100%;
+    background-color: black;
 }
