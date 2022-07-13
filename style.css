@@ -1,0 +1,55 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 18px;
+
+}
+
+.bg-image {
+    background-image: url(images/top-bg-image.png);
+    height: 650px;
+    width: 100%;
+    margin-bottom: 10%;
+
+
+}
+
+.text-align {
+    margin-left: 16%;
+    margin-right: 34%;
+    padding: 70px 10px;
+    color: white;
+}
+
+.link-button {
+    background-color: red;
+    text-decoration: none;
+    padding: 9px 12px;
+    border-radius: 5px;
+    color: white;
+}
+
+.con-display {
+    display: flex;
+    margin: 0 10%;
+    border: none;
+}
+
+/* .text-format {
+    padding: 3% 6%;
+} */
+
+
+.halg-width {
+    padding: 4% 8%;
+    width: 50%;
+    margin: 8% 0%;
+}
