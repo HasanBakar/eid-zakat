@@ -43,11 +43,18 @@ p {
     border: none;
 }
 
+#set-img {
+    margin-top: -12px;
 
+}
+
+.color-text {
+    color: black;
+}
 
 
 .halg-width {
-    padding: 4% 8%;
+    padding: 3% 6%;
     width: 50%;
     margin: -8% 0%;
 }
